@@ -1,0 +1,199 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: rgba(238, 206, 245, 0.838);
+}
+/* header */
+.maincontainer{
+    background: rgba(255, 255, 255, 0.899);
+    /* border: 1px black solid; */
+    height: 600px;
+    width: 1200px;
+    position: relative;
+    left: 180px;
+    top: 60px;
+    border-radius: 6px;
+    padding: 1px;
+}
+/* side-navbar */
+.sidebar{
+    /* border: 1px solid; */
+    height: 600px;
+    width: 60px;
+    position: relative;
+}
+/* navbar-icons */
+.icon1{
+    position: relative;
+    border-radius: 10px;}
+.icona{
+    height: 60px; ;
+    width: 60px;
+    position: relative;
+    left: -5px;
+    top: -5px;
+}
+.contact{
+    /* padding: auto; */
+    position: relative;
+    top: 100px;
+    left: 4px;
+}
+.contactic{
+    height: 40px;
+    width: 40px;
+}
+.chat{
+    padding: auto;
+    position: relative;
+    top: 110px;
+    left: 4px;
+    
+}
+.chatic{
+    height: 40px;
+    width: 40px;
+}
+.writingpaper{
+    padding: auto;
+    position: relative;
+    top: 120px;
+    left: 5px; ;
+}
+    
+.paperic{
+    height: 40px;
+    width: 40px;
+}
+.glasses{
+    padding: auto;
+    position: relative;
+    top: 120px;
+    left: 5px;
+    
+}
+.glassesic{
+    height: 40px;
+    width: 40px;
+}
+.briefcase{
+    padding: auto;
+    position: relative;
+    top: 120px;
+    left: 8px;
+}
+.briefcaseic{
+    height: 30px;
+    width: 30px;
+}
+.cloud{
+    padding: auto;
+    position: relative;
+    top: 283px;
+    left: 8px;
+    height: 15px;
+    width: 15px;
+}
+.cloudic{
+    height: 40px;
+    width: 40px;
+}
+/* discription-txt */
+.txtcontainer{
+    font-weight: lighter;
+    padding: 10px;
+    height: 150px;
+    width: 400px;
+    position: relative;
+    left: 680px;
+    top: -550px;
+}
+/* rightside-heading */
+.myservice{
+    position: relative;
+    left: 0px;
+    top: -520px;
+    height: 60px;
+    width: 400px;
+    left: 680px;
+    font-weight: bold;
+    font-size: 40px;
+}
+/* rightside-box1 */
+.box1{
+    padding: 2px;
+    height: 230px;
+    width: 230px ;
+    position: relative;
+    left: 680px;
+    top: -498px;
+}
+.monitoric{
+    height: 40px;
+    width: 40px;
+}
+.b1heading{
+    font-weight: bold;
+    font-size: 20px;
+}
+.b1txt{
+    padding-top: 20px;
+    font-size: 15px;
+    position: relative;
+    font-weight: lighter;
+}
+.stackic{
+    height: 30px;
+    width: 30px;
+    padding-top: 30px;
+    position: relative;
+    left: 5px;
+}
+/* rightside-box2 */
+.box2{
+    padding: 2px;
+    height: 230px;
+    width: 230px ;
+    position: relative;
+    left: 920px;
+    top: -730px;
+}
+.rocketic{
+    height:40px ;
+    width: 40px;
+}
+.b2heading{
+    padding-top: 7px; 
+    font-weight: bold;
+    font-size: 20px;
+}
+.b2text{
+    padding-top: 10px; ;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.sheildic{
+    height: 30px;
+    width: 30px;
+    padding-top: 10px;
+    position: relative;
+    left: 5px;
+}
+.verticalcontainer{
+    border-radius: 20px;
+    position: relative;
+    left: 55px;
+    top: -330px;
+    height: 650px;
+    width: 600px;
+    box-shadow: 10px 10px 20px 10px #a2a0a0;
+}
+.profilepic{
+    border-radius: 20px;
+    height: 650px;
+    width: 600px;
+    position: relative;
+}
+
